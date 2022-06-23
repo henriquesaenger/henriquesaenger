@@ -9,7 +9,8 @@ Hi there, im Henrique, nice to meet you 👋
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquesaenger&show_icons=true&theme=midnight-purple">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesaenger&layout=compact&theme=midnight-purple">
   </a>
+  <a href="https://www.linkedin.com/in/henrique-saenger/"><img height="100em" src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div>
-  <img height="100em" src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/henrique-saenger/"><img height="100em" src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
