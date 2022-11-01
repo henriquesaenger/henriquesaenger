@@ -1,7 +1,6 @@
 Hi there, im Henrique, nice to meet you 👋
 
 - 🌱 I’m currently learning ReactJS, Javascript, NodeJS
-- 🔭 I am currently working on a platform that helps Japanese language students memorize kanji and vocabulary for JLPT proficiency tests
 - 📫 How to reach me: henriquesaenger@gmail.com
 - 😄 Pronouns: He/Him/His
 
